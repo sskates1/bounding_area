@@ -11,7 +11,7 @@ class BoundingArea
         return true
       end
     end
-    return false
+    false
   end
 
 
